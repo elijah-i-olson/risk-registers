@@ -1,42 +1,38 @@
 # 📊 Risk Registers
 
-This repository contains sample risk register templates aligned to industry-standard frameworks such as **NIST 800-30** and **ISO 27005**. Each example is designed to help organizations and learners document and prioritize risk using clear, structured methodologies.
-
-These resources showcase how to identify assets, assess vulnerabilities, score risk, and propose relevant control strategies—all while aligning to governance, risk, and compliance (GRC) practices.
+This repository contains risk assessment and continuity‐planning resources aligned to industry frameworks such as **NIST 800-30** and **ISO 27005**. Each example helps organizations and learners identify assets, assess vulnerabilities, score risk, and document recovery requirements—while staying grounded in Governance, Risk, and Compliance (**GRC**) best practices.
 
 ---
 
 ## 📚 Contents
 
 ### ✅ Available Projects
-
-- **🌿 Green Thumb Risk Register**  
-  A detailed risk register tailored for an agriculture/horticulture business, covering operational, environmental, and regulatory risks. Includes scoring, mitigation, and stakeholder justification.  
-  [View Project Folder ➜](./green-thumb/)
+| Project | Description |
+|---------|-------------|
+| **🌿 Green Thumb Risk Register** | A detailed register for an agriculture / horticulture business, covering operational, environmental, and regulatory risks with scoring, mitigation, and stakeholder justification.<br>➡️ [View Folder](./green-thumb/) |
+| **⏱️ Mean Down Time (MDT) Analysis** | A business‐impact analysis that sets MTD, RTO, and RPO for mission-critical functions, supporting continuity planning in a regulated environment.<br>➡️ [View Folder](./mean-downtime-analysis/) |
 
 ### 🛠️ In Progress
-
-- **🧮 NIST 800-30 Sample Risk Register (CSV)** *(Planned)*  
-  A basic risk assessment spreadsheet using likelihood, impact, and calculated risk scores with control suggestions aligned to mitigation strategies.
+| Project (Planned) | Description |
+|-------------------|-------------|
+| **🧮 NIST 800-30 Sample Risk Register (CSV)** | A baseline spreadsheet that uses likelihood, impact, and calculated risk scores, with control suggestions aligned to mitigation strategies. |
 
 ---
 
 ## 🧠 Use Cases
-
 - GRC documentation practice and portfolio building  
-- Hands-on learning in risk identification and analysis  
-- Internal use by small businesses or GRC trainees  
-- Demonstrating competency in risk registers and prioritization models
+- Hands-on learning in risk identification, scoring, and BIA  
+- Internal use by SMBs or GRC trainees  
+- Demonstrating competency in prioritization models and continuity planning  
 
 ---
 
 ## 🛠️ Skills Demonstrated
-
-- Risk assessment and scoring  
+- Risk assessment & scoring methodologies  
 - Control mapping and mitigation planning  
-- Business impact justification  
-- Compliance framework alignment (NIST, ISO)  
-- Documentation of operational and regulatory risk posture
+- Business impact analysis (BIA) & continuity objectives (MTD/RTO/RPO)  
+- Compliance alignment (NIST, ISO)  
+- Clear, stakeholder-focused documentation  
 
 ---
 
@@ -49,5 +45,4 @@ Cybersecurity | GRC | Risk & Compliance Professional
 ---
 
 ## 📬 License & Use
-
-These materials are intended for educational and professional portfolio use. Attribution required for redistribution. Commercial use without written consent is not permitted.
+These materials are provided for educational and professional portfolio purposes. Attribution is required for redistribution. Commercial use without written consent is prohibited.
